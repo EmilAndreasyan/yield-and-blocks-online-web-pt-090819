@@ -1,4 +1,4 @@
-array = ["Tim", "Tom", "Jim"]
+#array = ["Tim", "Tom", "Jim"]
 def hello_t(array)
   if block_given?
 i = 0
