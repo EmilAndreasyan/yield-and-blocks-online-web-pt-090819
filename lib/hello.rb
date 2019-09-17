@@ -10,6 +10,7 @@ array
 else 
   puts "Hey! No block was given!"
 end
+end
 hello_t(array)
 # call your method here!
 
